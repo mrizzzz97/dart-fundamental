@@ -10,6 +10,7 @@
  * crtl + b = menutup tab kiri struktur project di vscode
  * alt + arah atas/bawah = mengeser/mengubah posisis baris kode
  * ctrl + backspace = menghapus satu kata ke kiri
+ * alt + shift + f = merapikan kode
  * */
 
 // cd
