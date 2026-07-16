@@ -12,5 +12,5 @@ void main() {
   double celsius = 5 / 9 * (fahrenheit - 32);
 
   // hasil 
-  print('$fahrenheit derajat Fahrenheit = $celsius derajat Celsius');
+  print('$fahrenheit Fahrenheit = $celsius Celsius');
 }
