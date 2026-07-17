@@ -89,9 +89,6 @@ void main(List<String> args) {
    * kalau > atau < tidak terdefenisi (hari tidak ada)
    * */
 
-
-
-
   String? inputMenu;
 
   do {
