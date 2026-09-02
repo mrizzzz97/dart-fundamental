@@ -1,4 +1,5 @@
 import 'animal.dart';
+import 'plants.dart';
 
 void main(List<String> args) {
   // var namaObject = namaClass(properties)
@@ -7,7 +8,8 @@ void main(List<String> args) {
   ucupCat.eat();
   print(ucupCat.weight);
 
-  /**
+  var ucupRose = Plants('rose', 'rose red', 'red');
+    /**
    * run di terminal
    */
 }
