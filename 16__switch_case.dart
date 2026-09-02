@@ -3,32 +3,32 @@ import 'dart:isolate';
 
 void main(List<String> args) {
 
-  var firstNumber = 80;
-  var secondNumber = 20;
-  var operator = '+';
+  // var firstNumber = 80;
+  // var secondNumber = 20;
+  // var operator = '+';
 
-  //switch + case + break
-  switch (operator) {
-    case '+':
-      print('$firstNumber + $secondNumber = ${firstNumber + secondNumber}');
-      break;
-    case '-':
-      print('$firstNumber - $secondNumber = ${firstNumber - secondNumber}');
-      break;
-    case '*':
-      print('$firstNumber * $secondNumber = ${firstNumber * secondNumber}');
-      break;
-    case '/':
-      print('$firstNumber / $secondNumber = ${firstNumber / secondNumber}');
-      break;
-    case '%':
-      print('$firstNumber % $secondNumber = ${firstNumber % secondNumber}');
-      break;
-  default:
-      print('tidak ada operasinya');
-  }
+  // //switch + case + break
+  // switch (operator) {
+  //   case '+':
+  //     print('$firstNumber + $secondNumber = ${firstNumber + secondNumber}');
+  //     break;
+  //   case '-':
+  //     print('$firstNumber - $secondNumber = ${firstNumber - secondNumber}');
+  //     break;
+  //   case '*':
+  //     print('$firstNumber * $secondNumber = ${firstNumber * secondNumber}');
+  //     break;
+  //   case '/':
+  //     print('$firstNumber / $secondNumber = ${firstNumber / secondNumber}');
+  //     break;
+  //   case '%':
+  //     print('$firstNumber % $secondNumber = ${firstNumber % secondNumber}');
+  //     break;
+  // default:
+  //     print('tidak ada operasinya');
+  // }
 
-  print("========================");
+  // print("========================");
 
   //buatlah konversi angka ke hari menggunakan switch case misal 
   /**
@@ -42,33 +42,33 @@ void main(List<String> args) {
    * kalau > atau < tidak terdefinisi
    */
 
-  var Hari = 2;
+  // var Hari = 2;
 
-  switch (Hari) {
-    case 1:
-      print('Ahad');
-      break;
-    case 2:
-      print('Senin');
-      break;
-    case 3:
-      print('Selasa');
-      break;
-    case 4:
-      print('Rabu');
-      break;
-    case 5:
-      print('Kamis');
-      break;
-    case 6:
-      print('Jumat');
-      break;
-    case 7:
-      print('Sabtu');
-      break;
-  default:
-      print('tidak terdefinisi');
-  }
+  // switch (Hari) {
+  //   case 1:
+  //     print('Ahad');
+  //     break;
+  //   case 2:
+  //     print('Senin');
+  //     break;
+  //   case 3:
+  //     print('Selasa');
+  //     break;
+  //   case 4:
+  //     print('Rabu');
+  //     break;
+  //   case 5:
+  //     print('Kamis');
+  //     break;
+  //   case 6:
+  //     print('Jumat');
+  //     break;
+  //   case 7:
+  //     print('Sabtu');
+  //     break;
+  // default:
+  //     print('tidak terdefinisi');
+  // }
 
   /**
    * buatkan sebuah program interaktif menggunakan kombinasi dari

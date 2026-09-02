@@ -2,7 +2,7 @@ void main(List<String> args) {
   /**
    * ouput dari operator pembagian adalah boolean
    * == artinya "sama dengan"
-   * != artinya "tidak sama dengan"
+   * != artinya "tidak sama dengan" 
    * > artinya "lebih dari"
    * < artinya "kurang dari"
    * >= artinya "lebih dari sama dengan"  
